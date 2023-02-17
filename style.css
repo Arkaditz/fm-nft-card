@@ -39,6 +39,7 @@ body{
 
 .nft-card__image-container:hover .nft-card__image-hover-icon{
     opacity: 1;
+    
 }
 
 .nft-card__image{
@@ -58,6 +59,7 @@ body{
     border-radius: 0.6rem;
     display: grid;
     place-content: center;
+    cursor: pointer;
 
 }
 .nft-card__image-hover img{
